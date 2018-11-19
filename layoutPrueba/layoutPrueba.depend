@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1539810152 source:w:\layoutprueba\main.c
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1266119414 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1540840670 source:x:\layoutprueba\main.c
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1542312679 source:c:\users\angel alvarado\dropbox\layoutprueba\main.c
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
